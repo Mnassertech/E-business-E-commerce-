@@ -10,7 +10,7 @@ import Layout from "./components/Layout/Layout";
 import Home from "./components/Home/Home";
 import Wishlist from "./components/Wishlist/Wishlist";
 import NotFound from "./components/NotFound/NotFound";
-import { tokenContext } from "./Context/tokenContext";
+import { tokenContext } from "./context/tokenContext";
 import ProtectedRoutes from "./components/ProtectedRoutes/ProtectedRoutes";
 import AuthView from "./components/AuthView/AuthView";
 import ProductDetails from "./components/ProductDetails/ProductDetails";
